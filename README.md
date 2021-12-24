@@ -10,6 +10,7 @@ W pierwzszym etapie (skrypt Preprocessing_NLP_bi):
   5. Ręcznie poprawiono skład klastrów.
   6. Zmapowano sentymenty do danych za pomocą funkcji get_sentiments i zwizualizowano rozkład sentymentów w tweetach.
   7. Dane po preprocessingu zapisano jako tweets_labeled_bi.csv (link 4) 
+
 ![image](https://user-images.githubusercontent.com/81071435/147371241-d77e96d3-4d68-4ce5-b3ec-209d96a23f25.png)
 
 Linki: 
