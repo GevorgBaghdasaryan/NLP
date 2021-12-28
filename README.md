@@ -27,4 +27,4 @@ Linki:
 7. BERT weights - https://drive.google.com/file/d/1XHp4qSIJV4-b68eFUB-Yuz1ejfmoFx-P/view?usp=sharing
 
 
-Autorzy: Piotr Kotowski s23003, Michał Białach s15172, Gevorg Baghdasaryan s23002
+### Autorzy: Piotr Kotowski s23003, Michał Białach s15172, Gevorg Baghdasaryan s23002
