@@ -13,7 +13,7 @@ W pierwszym etapie (skrypt Preprocessing_NLP_bi):
 
 W drugim etapie (skrypt ClassicML_NLP_bi) wybrano 3 klasyczne modele - Naive Bayes, Logistic Regression oraz Linear Support Vector Classification. Wytrenowano dane i wyliczono dla każdej predykcji confusion matrix i przygotowano wykres ROC Curve (link 5).
 
-W trzecim etapie (skrypt NN_NLP) zbudowano model Bi-LSTM (Bi-directional long short term memory) oraz 1D CNN. Z treningu na 30 epochs wybrano model o największej dokładności i zapisano go do dysku google (link 6 i 7) oraz dodano do repozytorium (best_model1.hdf5 oraz best_model2.hdf5). 
+W trzecim etapie (skrypt NN_NLP) zbudowano model Bi-LSTM (Bi-directional long short term memory) oraz 1D CNN. Z treningu na 30 epochs wybrano model o największej dokładności i zapisano go do dysku google (link 6 i 7).
 
 W czwartym ostatnim etapie (skrypt BERT_NLP) wykorzystano BERTa do stworzenia klasyfikatora do sentiment analysis.
 
